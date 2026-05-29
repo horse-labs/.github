@@ -94,28 +94,10 @@ Implantamos processos de digitalização para que o cliente use IA no negócio d
 
 <br>
 
-## Identidade
-
-**Paleta**
-
-![Obsidiana](https://img.shields.io/badge/Obsidiana-%230B0B0D?style=flat-square&color=0B0B0D)
-![Osso](https://img.shields.io/badge/Osso-%23F2EFE8?style=flat-square&color=F2EFE8)
-![Sangue](https://img.shields.io/badge/Sangue-%238B0F14?style=flat-square&color=8B0F14)
-![Sangue Luz](https://img.shields.io/badge/Sangue_Luz-%23B81820?style=flat-square&color=B81820)
-![Metal](https://img.shields.io/badge/Metal-%23B8B5AE?style=flat-square&color=B8B5AE)
-
-**Tipografia** — `Instrument Serif` · `Space Grotesk` · `JetBrains Mono`
-
-<br>
-
 ---
 
 <div align="center">
 
 *O instinto lê o ambiente antes do evento. A engenharia transforma isso em sistema.*
-
-<br>
-
-`SÃO PAULO, BR · ENGENHARIA DE IA · 2026`
 
 </div>

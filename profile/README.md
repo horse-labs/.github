@@ -47,7 +47,7 @@ Projetamos soluções que **abstraem o provedor de LLM do domínio**. A intelig�
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://raw.githubusercontent.com/horse-labs/.github/main/profile/assets/hl_ia_infraestrutura.svg" alt="IA como Infraestrutura" width="200">
+<img src="https://raw.githubusercontent.com/horse-labs/.github/main/profile/assets/hl_ia_infraestrutura.svg" alt="IA como Infraestrutura" width="100%">
 
 ### IA como infraestrutura
 
@@ -56,7 +56,7 @@ Camada de abstração que desacopla a aplicação do provedor de LLM. Roteamento
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://raw.githubusercontent.com/horse-labs/.github/main/profile/assets/hl_ia_servico.svg" alt="IA como Serviço" width="200">
+<img src="https://raw.githubusercontent.com/horse-labs/.github/main/profile/assets/hl_ia_servico.svg" alt="IA como Serviço" width="100%">
 
 ### IA como serviço
 
@@ -65,7 +65,7 @@ Capacidades de IA entregues prontas para integrar ao produto do cliente, com a m
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://raw.githubusercontent.com/horse-labs/.github/main/profile/assets/hl_digitalizacao.svg" alt="Digitalização" width="200">
+<img src="https://raw.githubusercontent.com/horse-labs/.github/main/profile/assets/hl_digitalizacao.svg" alt="Digitalização" width="100%">
 
 ### Digitalização com IA
 

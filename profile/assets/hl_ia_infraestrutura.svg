@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253 70" width="253" height="70">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;family=Instrument+Serif:ital@0;1&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Fundo obsidiana -->
+  <rect width="253" height="70" fill="#0B0B0D"/>
+
+  <!-- Ticks de canto em sangue -->
+  <line x1="0" y1="0" x2="8" y2="0" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="0" y1="0" x2="0" y2="8" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="253" y1="0" x2="245" y2="0" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="253" y1="0" x2="253" y2="8" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="0" y1="70" x2="8" y2="70" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="0" y1="70" x2="0" y2="62" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="253" y1="70" x2="245" y2="70" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="253" y1="70" x2="253" y2="62" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+
+  <!-- Ícone infraestrutura: camadas de servidor (Sistema II) -->
+  <g transform="translate(18, 20)">
+    <!-- Layer 3 (base) -->
+    <rect x="0" y="22" width="28" height="7" fill="none" stroke="#B8B5AE" stroke-width="1.5" stroke-linecap="square"/>
+    <!-- Layer 2 -->
+    <rect x="0" y="13" width="28" height="7" fill="none" stroke="#B8B5AE" stroke-width="1.5" stroke-linecap="square"/>
+    <!-- Layer 1 (topo) — em sangue = camada ativa/IA -->
+    <rect x="0" y="4" width="28" height="7" fill="none" stroke="#8B0F14" stroke-width="1.5" stroke-linecap="square"/>
+    <!-- Ponto ativo sangue no topo -->
+    <rect x="22" y="7" width="3" height="1.5" fill="#8B0F14"/>
+    <!-- Pontos inativos -->
+    <rect x="22" y="16" width="3" height="1.5" fill="#B8B5AE"/>
+    <rect x="22" y="25" width="3" height="1.5" fill="#B8B5AE"/>
+    <!-- Conector vertical sangue -->
+    <line x1="4" y1="4" x2="4" y2="0" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+    <polygon points="2,1 4,-2 6,1" fill="#8B0F14"/>
+  </g>
+
+  <!-- Linha separadora vertical -->
+  <line x1="58" y1="14" x2="58" y2="56" stroke="#2A2A2E" stroke-width="1" stroke-linecap="square"/>
+
+  <!-- Texto principal -->
+  <!-- Eyebrow: JetBrains Mono uppercase -->
+  <rect x="66" y="16" width="88" height="11" fill="#0B0B0D"/>
+  <text x="66" y="26" font-family="'JetBrains Mono', monospace" font-size="9" fill="#4A4A50" letter-spacing="1.8" text-anchor="start" font-weight="400">IA · HORSE LABS</text>
+
+  <!-- Título principal -->
+  <text x="66" y="44" font-family="'Instrument Serif', 'Times New Roman', serif" font-size="18" fill="#F2EFE8" letter-spacing="-0.3" text-anchor="start">IA como</text>
+  <text x="139" y="44" font-family="'Instrument Serif', 'Times New Roman', serif" font-size="18" fill="#8B0F14" letter-spacing="-0.3" font-style="italic" text-anchor="start"> infraestrutura</text>
+
+  <!-- Linha de acento inferior sangue -->
+  <line x1="66" y1="54" x2="120" y2="54" stroke="#8B0F14" stroke-width="1" stroke-linecap="square"/>
+  <line x1="120" y1="54" x2="240" y2="54" stroke="#2A2A2E" stroke-width="1" stroke-linecap="square"/>
+</svg>

@@ -10,9 +10,14 @@ LLM como infraestrutura — sem amarras de provedor.
 
 <br>
 
-[![IA como Infraestrutura](https://img.shields.io/badge/IA_COMO-INFRAESTRUTURA-8B0F14?style=for-the-badge&labelColor=0B0B0D)](https://github.com/horse-labs)
-[![IA como Serviço](https://img.shields.io/badge/IA_COMO-SERVIÇO-B81820?style=for-the-badge&labelColor=0B0B0D)](https://github.com/horse-labs)
-[![Vendor Neutral](https://img.shields.io/badge/PROVIDER-AGNÓSTICO-F2EFE8?style=for-the-badge&labelColor=0B0B0D)](https://github.com/horse-labs)
+[![IA como Infraestrutura](https://img.shields.io/badge/IA_COMO-INFRAESTRUTURA-8B0F14?style=for-the-badge&labelColor=0B0B0D)](https://www.horse-labs.dev)
+[![IA como Serviço](https://img.shields.io/badge/IA_COMO-SERVIÇO-B81820?style=for-the-badge&labelColor=0B0B0D)](https://www.horse-labs.dev)
+[![Vendor Neutral](https://img.shields.io/badge/PROVIDER-AGNÓSTICO-F2EFE8?style=for-the-badge&labelColor=0B0B0D)](https://www.horse-labs.dev)
+
+<br>
+
+[![Site](https://img.shields.io/badge/SITE-horse--labs.dev-0B0B0D?style=flat-square&labelColor=0B0B0D&color=8B0F14)](https://www.horse-labs.dev)
+[![Blog](https://img.shields.io/badge/BLOG-horse--labs.dev%2Fblog-0B0B0D?style=flat-square&labelColor=0B0B0D&color=8B0F14)](https://www.horse-labs.dev/blog)
 
 </div>
 
